@@ -32,6 +32,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-Luísa%20Fischer-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/
 )
-[![Gmail Badge](https://img.shields.io/badge/-lfvm@cesar.school-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-lfvm@cesar.school-006bed?style=flat-square&logo=Gmail&logoColor=white&link=lfvm@cesar.school)](lfvm@cesar.school)
 [![GitHub](https://img.shields.io/github/followers/luisafischerv?label=follow&style=social)](https://github.com/luisafischerv)
 
