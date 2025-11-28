@@ -27,11 +27,3 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-Luísa%20Fischer-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/
-)
-[![Gmail Badge](https://img.shields.io/badge/-lfvm@cesar.school-006bed?style=flat-square&logo=Gmail&logoColor=white&link=lfvm@cesar.school)](lfvm@cesar.school)
-[![GitHub](https://img.shields.io/github/followers/luisafischerv?label=follow&style=social)](https://github.com/luisafischerv)
-
