@@ -1,8 +1,8 @@
-## Sobre mim
+## About me
 
-- 🎓 Estudante de Ciência da Computação da CESAR School.
-- 💼 Buscando novas oportunidades.
-- 🌱 Aprendendo mais sobre linguagens de programação e de marcação.
+- 🎓 Computer Science student at CESAR School.
+- 💼 Seeking new opportunities.
+- 🌱 Enhancing my skills in programming and markup languages.
 
 ## Minhas Skills
 
