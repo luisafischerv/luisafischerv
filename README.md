@@ -2,7 +2,8 @@
 
 - 🎓 Computer Science student at CESAR School.
 - 💼 Seeking new opportunities.
-- 🌱 Enhancing my skills in programming and markup languages.
+- 🖥️ Enhancing my skills in programming and markup languages.
+- 🌐 Fluent in English and actively expanding my skills in Spanish.
 
 ## My Skills
 
