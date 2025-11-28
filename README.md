@@ -4,9 +4,9 @@
 - 💼 Seeking new opportunities.
 - 🌱 Enhancing my skills in programming and markup languages.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and Data**
 
 ![PYTHON](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
